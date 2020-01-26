@@ -20,14 +20,14 @@ body {
 
 /* Write all remaining styles here */
 
-.wrappr::before{
-  padding: 0px;
-  margin: 0px;
-  height: 0px;
+/*.wrappr::before{*/
+/*  padding: 0px;*/
+/*  margin: 0px;*/
+/*  height: 0px;*/
   
-}
+/*}*/
 .underline {
-  border-bottom
+  border-bottom:3px solid 99aba5;
   
 }
 
